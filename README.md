@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majid-Mollaeefar
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning web server security
+- 🌱 I’m currently phd student at the University of Genova
 - 📫 You can reach me ------->  www.majidml.com
 
 <!---
