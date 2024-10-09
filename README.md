@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Majid-Mollaeefar
-- 👀 I’m interested in cybersecurity
-- 🌱 I hold a PhD in Computer Science and Systems Engineering from the University of Genova
+- 👋 Hi, welcome! I’m @Majid-Mollaeefar
+- 👀 I’m a cybersecurity researcher @FBK 
+- 🌱 I'm an expert in cybersecurity risk assessment
 - 📫 You can reach me ------->  www.majidml.com
 
 <!---
