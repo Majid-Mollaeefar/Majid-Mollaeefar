@@ -1,6 +1,6 @@
 - 👋 Hi, welcome! I’m @Majid-Mollaeefar
 - 👀 I’m a cybersecurity researcher @FBK 
-- 🌱 I'm an expert in cybersecurity risk assessment
+- 🌱 I'm an expert in security and privacy threat modeling, GDPR, risk assessment, AI and LLM
 - 📫 You can reach me ------->  www.majidml.com
 
 <!---
